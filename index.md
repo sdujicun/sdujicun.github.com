@@ -2,18 +2,28 @@
 
 山东师范大学， 信息科学与工程学院，讲师
 
-## 个人简介
+# 个人简介
 嵇存，男，山东高密人，现为山东师范大学信息科学与工程学院讲师。分别于2017年和2012年获得山东大学博士、学士学位。先后参与国家重点研发计划、国家自然科学基金等国家级课题；在Computer Network等国际期刊以及Cloud2016等学术会议发表论文20余篇；申请或授权发明专利7项、软件著作权1项。曾获得了ACM China 学术新星奖(济南分会)、SSYSF Outstanding student award（服务计算协会杰出学生奖）、萨师煊优秀学生论文奖。曾担任2019 2nd International Conference on Big Data Technologies（ICBDT，2019年第二届大数据科技国际会议）等会议的Program Chairs；现为ACM Transactions on Intelligent Systems and Technology (ACM TIST), IEEE Transactions on Industrial Informatics (TII), Complex & Intelligent Systems, Computational Intelligence and Neuroscience，Journal of Computational Methods in Sciences and Engineering (JCMSE), American Journal of Data Mining and Knowledge Discovery, Indonesian Journal of Electrical Engineering and Informatics等期刊审稿人。
 
-## 工作经历
+# 工作经历
 - 201805-至今 山东师范大学 信息科学与工程学院 讲师
 
-## 教育背景
+# 教育背景
 - 201209-201712 山东大学 计算机与技术学院 硕博连读
 - 201510-201601 清华大学 工业大数据研究中心 交流
 - 200809-201206 山东大学 软件学院 本科
 - 200909-201006 吉林大学 软件学院 第二校园
 
+# 科研项目
+- 创新方法工作专项：创新方法在国家自主创新示范区的推广应用示范；项目编号：2020IM020100；主管部门：科技部；课题负责人。
+- 山东省自然科学基金项目：基于辨识性模式增强模型的时间序列分类方法研究；项目编号：ZR2020QF112；主管部门：山东省科技厅；主持
+- 山东省重点实验室联合基金：校园环保大数据平台关键技术研究 ； 主管部门： 山东省计算机学会； 主持。
+
+- 国家重点研发计划：软件定义智能制造体系架构与领域建模研究； 项目编号：2017YFA0700601；主管部门：科技部；第6位。
+- 国家自然科学基金：基于视频识别人员热感觉与分布的室内环境运行优化决策；项目编号：62073201；主管部门：国家自然科学基金委员会；第4位。
+- 国家自然科学基金：云计算服务协商定价模型研究；项目编号：61402263；主管部门：国家自然科学基金委员会；第8位。
+- 山东省自主创新专项计划：云生活电子商务综合服务平台；项目编号：2014ZZCX08102；主管部门：山东省科技厅；第7位。
+- 山东省社科规划项目： 山东民企金融供给侧改革风险管控机制及实施路径研究；项目编号：20DJJJ13；第4位。
 
 <!--
 
