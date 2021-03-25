@@ -2,9 +2,18 @@
 
 山东师范大学， 信息科学与工程学院，讲师
 
-##个人简介
-
+## 个人简介
 嵇存，男，山东高密人，现为山东师范大学信息科学与工程学院讲师。分别于2017年和2012年获得山东大学博士、学士学位。先后参与国家重点研发计划、国家自然科学基金等国家级课题；在Computer Network等国际期刊以及Cloud2016等学术会议发表论文20余篇；申请或授权发明专利7项、软件著作权1项。曾获得了ACM China 学术新星奖(济南分会)、SSYSF Outstanding student award（服务计算协会杰出学生奖）、萨师煊优秀学生论文奖。曾担任2019 2nd International Conference on Big Data Technologies（ICBDT，2019年第二届大数据科技国际会议）等会议的Program Chairs；现为ACM Transactions on Intelligent Systems and Technology (ACM TIST), IEEE Transactions on Industrial Informatics (TII), Complex & Intelligent Systems, Computational Intelligence and Neuroscience，Journal of Computational Methods in Sciences and Engineering (JCMSE), American Journal of Data Mining and Knowledge Discovery, Indonesian Journal of Electrical Engineering and Informatics等期刊审稿人。
+
+## 工作经历
+- 201805-至今 山东师范大学 信息科学与工程学院 讲师
+
+## 教育背景
+- 201209-201712 山东大学 计算机与技术学院 硕博连读
+- 201510-201601 清华大学 工业大数据研究中心 交流
+- 200809-201206 山东大学 软件学院 本科
+- 200909-201006 吉林大学 软件学院 第二校园
+
 
 <!--
 
