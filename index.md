@@ -36,28 +36,29 @@
 - 第36届中国数据库学术会议（NDBC 2019）萨师煊优秀学生论文奖<!--：《融合选择性提取与子类聚类的快速时间序列shapelet发现算法 》 赵超，王腾江，刘士军，潘丽，嵇存-->
 
 # 学术论文
+## 期刊论文
 - Zou Xiunan, Zheng Xiangwei*, Ji Cun*, Zhang Yuang. An improved fast shapelet selection algorithm and its application to pervasive EEG. Personal and Ubiquitous Computing, 2021
 - Zheng Xiangwei, Zhang Min*, Li Tiantian, Ji Cun, Hu Bin. A novel consciousness emotion recognition method using ERP components and MMSE.  Journal of Neural Engineering, 2021
 - Yang Shan, Zheng Xiangwei*, Ji Cun, Chen Xuanchi. Multi-layer Representation Learning and Its Application to Electronic Health Records.  Neural Processing Letters, 2021
 - Cun Ji, Xiunan Zou, Shijun Liu*, Li Pan*. ADARC: An anomaly detection algorithm based on relative outlier distance and biseries correlation. Software: Practice and Experience, 2020, 50(11): 2065-2081
-- 赵超, 王腾江, 刘士军*, 潘丽, 嵇存. 融合选择提取与子类聚类的快速Shapelet发现算法.  软件学报, 2020,31(03),763-777  
-- Tianlun Dai, Wenchao Zheng, Jiayue Sun, Cun Ji, Tao Zhou, Mingtong Li, Wei Hu, Ziqiang Yu*. Continuous Route Planning over a Dynamic Graph in Real-Time.  Procedia Computer Science, 174, 111-114
-- Sun Xiaofang, Hu Bin, Zheng Xiangwei, Yin Yongqiang, Ji Cun. Emotion Classification Based on Brain Functional Connectivity Network.  2020 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 16-19 Dec. 2020, Seoul, Korea (South)
+- 赵超, 王腾江, 刘士军*, 潘丽, 嵇存. 融合选择提取与子类聚类的快速Shapelet发现算法.  软件学报, 2020,31(03),763-777
 - Ji Cun, Zhao Chao, Pan Li*, Liu Shijun*, Yang Chenglei, Meng Xiangxu. A Just-in-time Shapelet Selection Service for Online Time Series Classification. Computer Networks, 2019, 157: 89-98
 - Ji Cun, Zhao Chao, Liu Shijun*, Yang Chenglei, Pan Li*, Wu Lei, Meng Xiangxu. A Fast Shapelet Selection Algorithm for Time Series Classification. Computer Networks, 2019，148：231-240
--  Hu, Yupeng, Ji, Cun, Zhang, Qingke, Chen, Lin, Zhan, Peng, Li, Xueqing. A novel multi-resolution representation for time series sensor data analysis.  Soft Computing, Springer, 2019: 1--26   
+-  Hu, Yupeng, Ji, Cun, Zhang, Qingke, Chen, Lin, Zhan, Peng, Li, Xueqing. A novel multi-resolution representation for time series sensor data analysis.  Soft Computing, Springer, 2019: 1--26  
+-  张琪, 胡宇鹏*, 嵇存, 展鹏, 李学庆. 边缘计算应用:传感数据异常实时检测算法.  计算机研究与发展, 2018, 55(3): 524-536.
+-  Ji, Cun, Zhao, Chao, Pan, Li, Liu, Shijun*, Yang, Chenglei, Wu, Lei. A Fast Shapelet Discovery Algorithm Based on Important Data Points. International Journal of Web Services Research, 2017, 14(2): 67-80
+-  Ji, Cun, Shao, Qingshi, Jiao, Sun, Liu, Shijun*, Li, Pan, Lei, Wu, Yang, Chenglei*. Device Data Ingestion for Industrial Big Data Platforms with a Case Study. Sensors, 2016, 16(3)
+## 会议论文
+- Sun Xiaofang, Hu Bin, Zheng Xiangwei, Yin Yongqiang, Ji Cun. Emotion Classification Based on Brain Functional Connectivity Network.  2020 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 16-19 Dec. 2020, Seoul, Korea (South)
+- Tianlun Dai, Wenchao Zheng, Jiayue Sun, Cun Ji, Tao Zhou, Mingtong Li, Wei Hu, Ziqiang Yu*. Continuous Route Planning over a Dynamic Graph in Real-Time.  Procedia Computer Science, 174, 111-114 
 - Xiukai Zhao, Lei Lyu*, Chen Lyu, Cun Ji. A new parallel simulation method for massive crowd.  Procedia Computer Science , 2019, 147:283-287
 - Luo, Wei, Zhan, Peng, Zhang, Qi, Ji, Cun, Zheng, Jiecai, Li, Xueqing. Dynamic Adaptive Piecewise Linear Representation Approach Based on Streaming Time Series.  Journal of Physics: Conference Series, IOP Publishing, 2019, 1302(2): 022085
 - Zhao, Chao, Liu, Shijun, Pan, Li, Ji, Cun, Yang, Chenglei. Selecting Superior Candidates from a Suitable Set: A Selective Extraction Algorithm for Accelerating Shapelet Discovery in Time Series Data.  2019 IEEE 23rd International Conference on Computer Supported Cooperative Work in Design (CSCWD), IEEE, 2019: 404--409-     
 - Yang, Yang, Zheng, Xiangwei, Ji, Cun. Disease Prediction Model Based on BiLSTM and Attention Mechanism.  2019 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), IEEE, 2019: 1141--1148
-2018
 - Cun Ji*, Xiunan Zou, Yupeng Hu, Shijun Liu, Lei Lyu, Xiangwei Zheng. XG-SF: An XGBoost Classifier Based on Shapelet Features for Time Series Classification.  Procedia Computer Science, 2018.  
-- 张琪, 胡宇鹏*, 嵇存, 展鹏, 李学庆. 边缘计算应用:传感数据异常实时检测算法.  计算机研究与发展, 2018, 55(3): 524-536.
 - Ji, Cun, Liu, Shijun*, Yang, Chenglei, Pan, Li, Wu, Lei, Meng, Xiangxu. A Shapelet Selection Algorithm for Time Series Classification: New Directions.  Procedia Computer Science, 129: 461–467
 - Ji Cun*, Zou Xiunan, Hu Yupeng*, Liu Shijun*. A 2D Transform Based Distance Function for Time Series Classification.  14th EAI International Conference on Collaborative Computing: Networking, Applications and Worksharing, 2018.12.1-2018.12.3, Shanghai, China
-- Ji, Cun, Zhao, Chao, Pan, Li, Liu, Shijun*, Yang, Chenglei, Wu, Lei. A Fast Shapelet Discovery Algorithm Based on Important Data Points. International Journal of Web Services Research, 2017, 14(2): 67-80
 - Hu, Yupeng, Yang, Chong, Ji, Cun, Xu, Yang, Li, Xueqing*. Efficient Snapshot KNN Join Processing for Large Data Using MapReduce.  IEEE International Conference on Parallel and Distributed Systems, 2016: 713-720
-- Ji, Cun, Shao, Qingshi, Jiao, Sun, Liu, Shijun*, Li, Pan, Lei, Wu, Yang, Chenglei*. Device Data Ingestion for Industrial Big Data Platforms with a Case Study. Sensors, 2016, 16(3)
 - Hu, Yupeng, Ji, Cun, Jing, Ming, Ding, Yiming, Kuai, Shuo, Li, Xueqing*. A Continuous Segmentation Algorithm for Streaming Time Series.  International Conference on Collaborative Computing: Networking, Applications and Worksharing, 2016: 140-151.
 - Ji, Cun, Liu, Shijun*, Yang, Chenglei, Pan, Li, Wu, Lei*. A fast shapelet discovery algorithm with symbolic fourier approximation.  S2 International Coference on Internet of Things, 2016: 101-108
 - Ji, Cun, Liu, Shijun*, Yang, Chenglei, Cui, Lizhen, Pan, Li, Wu, Lei, Liu, Yingbo. A Self-Evolving Method of Data Model for Cloud-Based Machine Data Ingestion.  IEEE International Conference on Cloud Computing, 2017: 814-819
@@ -72,38 +73,9 @@
 
 You can use the [editor on GitHub](https://github.com/sdujicun/sdujicun.github.com/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sdujicun/sdujicun.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
 -->
