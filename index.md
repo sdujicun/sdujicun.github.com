@@ -1,5 +1,5 @@
 # 嵇存
-![Image](photo.JPG){:height="100px" width="400px"}
+![Image](photo.JPG){:height="300px" width="150px"}
 山东师范大学， 信息科学与工程学院，讲师
 
 # 个人简介
