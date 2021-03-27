@@ -1,4 +1,4 @@
-[english.md](./english.md)
+[English](./english.md)
 
 <div style="float: left; clear: both;" align="left">
 <img src="/photo.JPG" width="200" alt="news_20191112_2" align=left hspace="5" vspace="5"/>
