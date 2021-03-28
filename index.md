@@ -13,7 +13,8 @@
 **Dr. Cun Ji** is currently a lecturer with the Shandong Provincial Key Laboratory for Distributed Computer Software Novel Technology, School of Information Science and Engineering, Shandong Normal University.
 
 
-
+## 联系方式/Contact Information
+Email: jicun@sdnu.edu.cn
 
 <!--
 
