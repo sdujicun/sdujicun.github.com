@@ -1,15 +1,5 @@
-[中文简介](./index.md) 
 
-
-<div style="float: left; clear: both;" align="left">
-<img src="/photo.JPG" width="200" alt="news_20191112_2" align=left hspace="5" vspace="5"/>
-Cun Ji obtained his BS and PhD  degrees from Shandong University, China. His current research interests include time series data analysis, enterprise services computing and services system for manufacturing.
-</div>
-<br clear="left" />
-
-# publication 
-
-## journal
+# journal
 - Zou Xiunan, Zheng Xiangwei, **Ji Cun**, Zhang Yuang. An improved fast shapelet selection algorithm and its application to pervasive EEG. Personal and Ubiquitous Computing, 2021
 - Zheng Xiangwei, Zhang Min, Li Tiantian, **Ji Cun**, Hu Bin. A novel consciousness emotion recognition method using ERP components and MMSE.  Journal of Neural Engineering, 2021
 - Yang Shan, Zheng Xiangwei, **Ji Cun**, Chen Xuanchi. Multi-layer Representation Learning and Its Application to Electronic Health Records.  Neural Processing Letters, 2021
@@ -22,14 +12,14 @@ Cun Ji obtained his BS and PhD  degrees from Shandong University, China. His cur
 -  **Ji Cun**, Zhao Chao, Pan Li, Liu Shijun, Yang Chenglei, Wu Lei. A Fast Shapelet Discovery Algorithm Based on Important Data Points. International Journal of Web Services Research, 2017, 14(2): 67-80
 -  **Ji Cun**, Shao Qingshi, Jiao Sun, Liu Shijun, Li Pan, Lei Wu, Yang Chenglei. Device Data Ingestion for Industrial Big Data Platforms with a Case Study. Sensors, 2016, 16(3)
 
-## Conference
+# Conference
 - Sun Xiaofang, Hu Bin, Zheng Xiangwei, Yin Yongqiang, **Ji Cun**. Emotion Classification Based on Brain Functional Connectivity Network.  2020 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 16-19 Dec. 2020, Seoul, Korea (South)
 - Tianlun Dai, Wenchao Zheng, Jiayue Sun, **Cun Ji**, Tao Zhou, Mingtong Li, Wei Hu, Ziqiang Yu. Continuous Route Planning over a Dynamic Graph in Real-Time.  Procedia Computer Science, 174, 111-114 
 - Xiukai Zhao, Lei Lyu, Chen Lyu, **Cun Ji**. A new parallel simulation method for massive crowd.  Procedia Computer Science , 2019, 147:283-287
 - Luo Wei, Zhan Peng, Zhang Qi, **Ji Cun**, Zheng Jiecai, Li Xueqing. Dynamic Adaptive Piecewise Linear Representation Approach Based on Streaming Time Series.  Journal of Physics: Conference Series, IOP Publishing, 2019, 1302(2): 022085
-- Zhao Chao, Liu Shijun, Pan Li, **Ji Cun**, Yang Chenglei. Selecting Superior Candidates from a Suitable Set: A Selective Extraction Algorithm for Accelerating Shapelet Discovery in Time Series Data.  2019 IEEE 23rd International Conference on Computer Supported Cooperative Work in Design (CSCWD), IEEE, 2019: 404--409-     
-- Yang Yang, Zheng Xiangwei, **Ji Cun**. Disease Prediction Model Based on BiLSTM and Attention Mechanism.  2019 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), IEEE, 2019: 1141--1148
-- **Cun Ji8*, Xiunan Zou, Yupeng Hu, Shijun Liu, Lei Lyu, Xiangwei Zheng. XG-SF: An XGBoost Classifier Based on Shapelet Features for Time Series Classification.  Procedia Computer Science, 2018.  
+- Zhao Chao, Liu Shijun, Pan Li, **Ji Cun**, Yang Chenglei. Selecting Superior Candidates from a Suitable Set: A Selective Extraction Algorithm for Accelerating Shapelet Discovery in Time Series Data.  2019 IEEE 23rd International Conference on Computer Supported Cooperative Work in Design (CSCWD), IEEE, 2019: 404-409
+- Yang Yang, Zheng Xiangwei, **Ji Cun**. Disease Prediction Model Based on BiLSTM and Attention Mechanism.  2019 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), IEEE, 2019: 1141-1148
+- **Cun Ji**, Xiunan Zou, Yupeng Hu, Shijun Liu, Lei Lyu, Xiangwei Zheng. XG-SF: An XGBoost Classifier Based on Shapelet Features for Time Series Classification.  Procedia Computer Science, 2018.  
 - **Ji Cun**, Liu Shijun, Yang Chenglei, Pan Li, Wu Lei, Meng Xiangxu. A Shapelet Selection Algorithm for Time Series Classification: New Directions.  Procedia Computer Science, 129: 461–467
 - **Ji Cun**, Zou Xiunan, Hu Yupeng, Liu Shijun. A 2D Transform Based Distance Function for Time Series Classification.  14th EAI International Conference on Collaborative Computing: Networking, Applications and Worksharing, 2018.12.1-2018.12.3, Shanghai, China
 - Hu Yupeng, Yang Chong, **Ji Cun**, Xu Yang, Li Xueqing. Efficient Snapshot KNN Join Processing for Large Data Using MapReduce.  IEEE International Conference on Parallel and Distributed Systems, 2016: 713-720
