@@ -1,4 +1,4 @@
-[个人简介/biography](./index.md)&nbsp；&nbsp；&nbsp；&nbsp；[论文/publication](./publication.md)
+[个人简介/biography](./index.md)&nbsp; &nbsp; &nbsp; &nbsp; [论文/publication](./publication.md)&nbsp; &nbsp; &nbsp; &nbsp; [项目/project](./project.md)
 
 <div style="float: left; clear: both;" align="left">
 <img src="./pic/photo.JPG" width="200" alt="news_20191112_2" align=left hspace="5" vspace="5"/>
