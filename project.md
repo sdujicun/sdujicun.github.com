@@ -1,4 +1,4 @@
-[个人简介/biography](./index.md)&nbsp; &nbsp; &nbsp; &nbsp; [论文/publication](./publication.md)&nbsp; &nbsp; &nbsp; &nbsp; [项目/project](./project.md)
+[个人简介/Biography](./index.md)&nbsp; &nbsp; &nbsp; &nbsp; [论文/Publication](./publication.md)&nbsp; &nbsp; &nbsp; &nbsp; [项目/Project](./project.md)&nbsp; &nbsp; &nbsp; &nbsp; [主要荣誉/Honor](./honor.md)
 
 
 # 科研项目
