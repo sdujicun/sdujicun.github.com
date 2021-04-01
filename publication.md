@@ -1,4 +1,4 @@
-[个人简介/Biography](./index.md)&nbsp; &nbsp; &nbsp; &nbsp; [论文/Publication](./publication.md)&nbsp; &nbsp; &nbsp; &nbsp; [项目/Project](./project.md)&nbsp; &nbsp; &nbsp; &nbsp; [主要荣誉/Honor](./honor.md)
+[个人简介/Biography](./index.md)&nbsp; &nbsp; &nbsp; &nbsp; [论文/Publication](./publication.md)&nbsp; &nbsp; &nbsp; &nbsp; [项目/Project](./project.md)&nbsp; &nbsp; &nbsp; &nbsp; [主要荣誉/Honor](./honor.md)&nbsp; &nbsp; &nbsp; &nbsp; [指导学生/My Students](./student.md)
 
 # 2021
 - Zou Xiunan, Zheng Xiangwei, **Ji Cun**, Zhang Yuang. [An improved fast shapelet selection algorithm and its application to pervasive EEG](https://link.springer.com/article/10.1007/s00779-020-01501-4), Personal and Ubiquitous Computing
