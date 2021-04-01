@@ -1,5 +1,4 @@
-[个人简介/Biography](./index.md)&nbsp; &nbsp; &nbsp; &nbsp; [论文/Publication](./publication.md)&nbsp; &nbsp; &nbsp; &nbsp; [项目/Project](./project.md)&nbsp; &nbsp; &nbsp; &nbsp; [主要荣誉/Honor](./honor.md)&nbsp; &nbsp; &nbsp; &nbsp; [指导学生/My Students](./student.md)
-
+[个人简介/Biography](./index.md)&nbsp; &nbsp; [论文/Publication](./publication.md)&nbsp; &nbsp; [项目/Project](./project.md)&nbsp; &nbsp; [主要荣誉/Honor](./honor.md)&nbsp; &nbsp; [指导学生/My Students](./student.md)
 
 # 科研项目
 - 创新方法工作专项：创新方法在国家自主创新示范区的推广应用示范；项目编号：2020IM020100；主管部门：科技部；课题负责人。
