@@ -10,21 +10,8 @@
 <br/>
 <br/>
 
-**Dr. Cun Ji** is currently a lecturer with the Shandong Provincial Key Laboratory for Distributed Computer Software Novel Technology, School of Information Science and Engineering, Shandong Normal University.
+**Dr. Cun Ji** is currently a lecturer with the Shandong Provincial Key Laboratory for Distributed Computer Software Novel Technology, School of Information Science and Engineering, Shandong Normal University. His main research interests include time series analysis， intelligent manufacturing and big data.
 
 
 ## 联系方式/Contact Information
 Email: jicun@sdnu.edu.cn
-
-<!--
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/sdujicun/sdujicun.github.com/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
--->
