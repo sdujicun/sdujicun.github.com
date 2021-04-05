@@ -1,4 +1,4 @@
-[个人简介/Biography](./index.md)&nbsp; &nbsp; [论文/Publication](./publication.md)&nbsp; &nbsp;[项目/Project](./project.md)&nbsp; &nbsp; [主要荣誉/Honor](./honor.md)&nbsp; &nbsp;[指导学生/My Students](./student.md)
+[个人简介/Biography](./index.md)&nbsp; [项目/Project](./project.md)&nbsp; [论文/Publication](./publication.md)&nbsp;  [专利/Patent](./Patent.md)&nbsp; [主要荣誉/Honor](./honor.md)&nbsp; [指导学生/My Students](./student.md)
 
 
 # 2020
