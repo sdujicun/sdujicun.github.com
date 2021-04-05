@@ -1,4 +1,4 @@
-[个人简介/Biography](./index.md)&nbsp; [项目/Project](./project.md)&nbsp; [论文/Publication](./publication.md)&nbsp;  [专利/Patent](./Patent.md)&nbsp; [主要荣誉/Honor](./honor.md)&nbsp; [指导学生/My Students](./student.md)
+[个人简介/Biography](./index.md)&nbsp; [项目/Project](./project.md)&nbsp; [论文/Publication](./publication.md)&nbsp;  [专利/Patent](./patent.md)&nbsp; [主要荣誉/Honor](./honor.md)&nbsp; [指导学生/My Students](./student.md)
 
 - 张宇昂; 郑向伟; 刘弘; **嵇存**; 魏艺; 徐卫志; 田杰; 吕蕾; 一种面向实时脑电信号的眨眼伪迹识别方法及系统, 2020-7-15, 中国, CN202010681631.X. （已受理）
 - 郑向伟; 杨姗; 杨洋; **嵇存**; 魏艺; 基于BiLSTM的电子健康记录表示学习方法及系统, 2020-2-7, 中国, CN202010082494.8. （已受理）
