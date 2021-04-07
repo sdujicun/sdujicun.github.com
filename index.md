@@ -17,4 +17,4 @@
 Email: jicun@sdnu.edu.cn
 
 
-![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=${https://github.com/sdujicun/sdujicun.github.io})
+![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=${https://sdujicun.github.io/})
