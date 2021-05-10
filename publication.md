@@ -4,6 +4,7 @@
 - Zou Xiunan, Zheng Xiangwei, **Ji Cun**, Zhang Yuang. [An improved fast shapelet selection algorithm and its application to pervasive EEG](https://link.springer.com/article/10.1007/s00779-020-01501-4), Personal and Ubiquitous Computing
 - Zheng Xiangwei, Zhang Min, Li Tiantian, **Ji Cun**, Hu Bin. [A novel consciousness emotion recognition method using ERP components and MMSE](https://iopscience.iop.org/article/10.1088/1741-2552/abea62/meta),  Journal of Neural Engineering
 - Yang Shan, Zheng Xiangwei, **Ji Cun**, Chen Xuanchi. [Multi-layer Representation Learning and Its Application to Electronic Health Records](https://link.springer.com/article/10.1007/s11063-021-10449-2),  Neural Processing Letters
+- Tengjiang Wang, Pengyu Yuan, **Ji Cun**, Shijun Liu. [Cooperative Anomaly Detection Model and Real-Time Update Strategy for Industrial Stream Data](https://www.springerprofessional.de/en/cooperative-anomaly-detection-model-and-real-time-update-strateg/19141432), Computer Supported Cooperative Work and Social Computing
 
 # 2020
 - **Cun Ji**, Xiunan Zou, Shijun Liu, Li Pan. [ADARC: An anomaly detection algorithm based on relative outlier distance and biseries correlation](https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.2756), Software: Practice and Experience
