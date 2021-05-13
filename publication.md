@@ -4,6 +4,7 @@
 - Zou Xiunan, Zheng Xiangwei, **Ji Cun**, Zhang Yuang. [An improved fast shapelet selection algorithm and its application to pervasive EEG](https://link.springer.com/article/10.1007/s00779-020-01501-4), Personal and Ubiquitous Computing
 - Zheng Xiangwei, Zhang Min, Li Tiantian, **Ji Cun**, Hu Bin. [A novel consciousness emotion recognition method using ERP components and MMSE](https://iopscience.iop.org/article/10.1088/1741-2552/abea62/meta),  Journal of Neural Engineering
 - Yang Shan, Zheng Xiangwei, **Ji Cun**, Chen Xuanchi. [Multi-layer Representation Learning and Its Application to Electronic Health Records](https://link.springer.com/article/10.1007/s11063-021-10449-2),  Neural Processing Letters
+- Li Tingting, Niu Wenqi, **Ji Cun**.  Fully Convolutional Networks with Shapelet Features for Time Series Classification, Journal of Computational Science. Accepted.
 - Wang Tengjiang, Yuan Pengyu, **Ji Cun**,  Liu Shijun. [Cooperative Anomaly Detection Model and Real-Time Update Strategy for Industrial Stream Data](https://www.springerprofessional.de/en/cooperative-anomaly-detection-model-and-real-time-update-strateg/19141432), Computer Supported Cooperative Work and Social Computing
 - Zhang Shichao, Zheng Xiangwei,  **Ji Cun**. [Fast Shapelet Discovery with Trend Feature Symbolization](https://www.springerprofessional.de/en/fast-shapelet-discovery-with-trend-feature-symbolization/19141440), Computer Supported Cooperative Work and Social Computing
 
