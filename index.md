@@ -12,6 +12,8 @@
 
 **Dr. Cun Ji** is currently a lecturer with the Shandong Provincial Key Laboratory for Distributed Computer Software Novel Technology, School of Information Science and Engineering, Shandong Normal University. His main research interests include time series analysis， intelligent manufacturing and big data.
 
+#招生方向
+计算机技术  1~2名
 
 ## 联系方式/Contact Information
 Email: jicun@sdnu.edu.cn
