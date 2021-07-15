@@ -1,7 +1,7 @@
 [个人简介/Biography](./index.md)&nbsp; [项目/Project](./project.md)&nbsp; [论文/Publication](./publication.md)&nbsp;  [专利/Patent](./patent.md)&nbsp; [主要荣誉/Honor](./honor.md)&nbsp; [指导学生/My Students](./student.md)
 
 # 2021
--**Ji Cun**, Hu Yupeng, Wang Kun, Zhan Peng, Li Xueqing, Zheng Xiangwei. [Identifiable Temporal Feature Selection via Horizontal Visibility Graph Towards Smart Medical Applications](https://link.springer.com/article/10.1007/s12539-021-00460-5#article-info), Interdisciplinary Sciences: Computational Life Sciences
+- **Ji Cun**, Hu Yupeng, Wang Kun, Zhan Peng, Li Xueqing, Zheng Xiangwei. [Identifiable Temporal Feature Selection via Horizontal Visibility Graph Towards Smart Medical Applications](https://link.springer.com/article/10.1007/s12539-021-00460-5#article-info), Interdisciplinary Sciences: Computational Life Sciences
 - Zou Xiunan, Zheng Xiangwei, **Ji Cun**, Zhang Yuang. [An improved fast shapelet selection algorithm and its application to pervasive EEG](https://link.springer.com/article/10.1007/s00779-020-01501-4), Personal and Ubiquitous Computing
 - Zheng Xiangwei, Zhang Min, Li Tiantian, **Ji Cun**, Hu Bin. [A novel consciousness emotion recognition method using ERP components and MMSE](https://iopscience.iop.org/article/10.1088/1741-2552/abea62/meta),  Journal of Neural Engineering
 - Yang Shan, Zheng Xiangwei, **Ji Cun**, Chen Xuanchi. [Multi-layer Representation Learning and Its Application to Electronic Health Records](https://link.springer.com/article/10.1007/s11063-021-10449-2),  Neural Processing Letters
