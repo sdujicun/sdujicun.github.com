@@ -1,5 +1,6 @@
 [个人简介/Biography](./index.md)&nbsp; [项目/Project](./project.md)&nbsp; [论文/Publication](./publication.md)&nbsp;  [专利/Patent](./patent.md)&nbsp; [主要荣誉/Honor](./honor.md)&nbsp; [指导学生/My Students](./student.md)
 # 2022
+- **Ji Cun**, Hu Yupeng, Liu Shijun, Pan Li, Li Bo, Zheng Xiangwei. [Fully Convolutional Networks with Shapelet Features for Time Series Classification](https://www.sciencedirect.com/science/article/abs/pii/S0020025522010532), Information Sciences.
 - **Ji Cun**, Du Mingsen, Hu Yupeng, Liu Shijun, Pan Li, Zheng Xiangwei. [Time series classification based on temporal features](https://www.sciencedirect.com/science/article/abs/pii/S1568494622005889), Applied Soft Computing.
 - Zou Xiunan, Zheng Xiangwei, **Ji Cun**, Zhang Yuang. [An improved fast shapelet selection algorithm and its application to pervasive EEG](https://link.springer.com/article/10.1007/s00779-020-01501-4), Personal and Ubiquitous Computing
 - Xiao Xiancui, Zheng Xiangwei, Bian Ji, **Ji Cun**, Cui Xinchun. [A dynamic and resource sharing virtual network mapping algorithm](https://www.sciencedirect.com/science/article/pii/S235286482200133X), Digital Communications and Networks.
