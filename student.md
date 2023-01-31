@@ -1,5 +1,8 @@
 [个人简介/Biography](./index.md)&nbsp; [项目/Project](./project.md)&nbsp; [论文/Publication](./publication.md)&nbsp;  [专利/Patent](./patent.md)&nbsp; [主要荣誉/Honor](./honor.md)&nbsp; [指导学生/My Students](./student.md)
 
+# 2023
+1. 袁绍伟 2022年全国大学生数据分析大赛  一等奖
+
 # 2022
 1. 邵文文 林凡信   第九届“大唐杯”全国大学生移动通信5G技术大赛 省二等奖
 2. 王茂源 王宇宏   第九届“大唐杯”全国大学生移动通信5G技术大赛 省三等奖
