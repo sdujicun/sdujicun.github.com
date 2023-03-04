@@ -2,13 +2,13 @@
 ---
 @import "{{ site.theme }}";
  
- 
+body {
+  background-color: white;
+}
  
 header h1:before {
   content: "| ";
   font-size: 24px;
 }
 
-container {
-  background-color: write;
-}
+
