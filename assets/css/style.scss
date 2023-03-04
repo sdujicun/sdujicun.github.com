@@ -2,13 +2,9 @@
 ---
 @import "{{ site.theme }}";
 
-body {
-  width: 90%;
-}
 
 header {
   background-color: white;
-  width: 10%;
 }
  
 header h1:before {
