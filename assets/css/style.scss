@@ -3,7 +3,8 @@
 @import "{{ site.theme }}";
 
 body {
-  width:90%
+  margin: 0 auto;
+  width:90%;
 }
 
 header h1:before {
