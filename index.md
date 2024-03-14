@@ -1,4 +1,4 @@
-[个人简介/Biography](./index.md)&nbsp; [项目/Project](./project.md)&nbsp; [论文/Publication](./publication.md)&nbsp;  [专利/Patent](./patent.md)&nbsp; [主要荣誉/Honor](./honor.md)&nbsp; [指导学生/My Students](./student.md)
+# 主页已迁移 [新主页](https://ji-cun.github.io/)
 
 # 嵇存， 硕士生导师、讲师
 <div style="float: left; clear: both;" align="left">
